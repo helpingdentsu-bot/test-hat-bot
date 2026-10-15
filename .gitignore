@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+black_hat/session/
+black_hat/temp/
+*.db-shm
+*.db-wal
+node_modules/
